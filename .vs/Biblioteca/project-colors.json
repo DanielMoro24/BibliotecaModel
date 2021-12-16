@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "dcef94e8-cd98-4658-b498-325c7bae9fa0": {
+      "ProjectGuid": "dcef94e8-cd98-4658-b498-325c7bae9fa0",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 0
+    },
+    "38e7f9e1-346a-4b2c-9157-a652db1db7de": {
+      "ProjectGuid": "38e7f9e1-346a-4b2c-9157-a652db1db7de",
+      "DisplayName": "Datos",
+      "ColorIndex": 1
+    },
+    "1cf476a8-7315-4c51-aa17-7d7b2dc54e0a": {
+      "ProjectGuid": "1cf476a8-7315-4c51-aa17-7d7b2dc54e0a",
+      "DisplayName": "DatosDef",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
